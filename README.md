@@ -34,7 +34,4 @@ Passionate about Blue Teaming and automating security operations to reduce MTTR 
 - **Email:** [rfreire750@gmail.com]
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freir3r&layout=compact&theme=vision-glow" alt="Top Langs" />
-</p>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rfreir3&layout=compact&theme=dracula)
