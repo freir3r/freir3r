@@ -23,9 +23,7 @@ Passionate about Blue Teaming and automating security operations to reduce MTTR 
 ---
 
 ### 📈 What I'm Up To
-- 🔭 **Currently working on:** Enhancing my Phishing-Analyzer to support bulk processing and custom HTML reporting.
-- 🌱 **Currently learning:** Advanced Network Security and preparing for my next security certification.
-- 💬 **Ask me about:** Why I love Blue Teaming and how automation can save a SOC team's sanity.
+- 🌱 **Currently learning:** TryHackMe SOC Level 1 path
 
 ---
 
