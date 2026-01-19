@@ -31,7 +31,7 @@ Passionate about Blue Teaming and automating security operations to reduce MTTR 
 
 ### 📫 Connect with me
 - **LinkedIn:** [rodrigofernandesfreire](https://www.linkedin.com/in/rodrigofernandesfreire/)
-- **Email:** [Your Professional Email Here]
+- **Email:** [rfreire750@gmail.com]
 
 ---
 
