@@ -29,10 +29,7 @@ Passionate about Blue Teaming and automating security operations to reduce MTTR 
 </a>
 
 ---
-
 ### 📫 Connect with me
 - **LinkedIn:** [rodrigofernandesfreire](https://www.linkedin.com/in/rodrigofernandesfreire/)
-- **Email:** [rfreire750@gmail.com]
-
 ---
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rfreir3&layout=compact&theme=dracula)
