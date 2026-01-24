@@ -25,7 +25,7 @@ Passionate about Blue Teaming and automating security operations to reduce MTTR 
 ### 📈 What I'm Up To
 - 🌱 **Currently learning:** TryHackMe SOC Level 1 path
 <a href="https://tryhackme.com/p/freir3">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/freir3.png" alt="TryHackMe Profile" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/freir3.png" alt="Your Image Badge" />
 </a>
 
 ---
